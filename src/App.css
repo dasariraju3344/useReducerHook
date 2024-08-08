@@ -1,0 +1,11 @@
+.buttons {
+  margin: 8px;
+}
+
+.input {
+  margin: 8px;
+  border-radius: 5px;
+  font-size: large;
+  padding: 3px;
+  padding-left: 6px;
+}
